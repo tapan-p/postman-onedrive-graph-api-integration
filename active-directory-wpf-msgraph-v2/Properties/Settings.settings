@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="active_directory_wpf_msgraph_v2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="postman_environment" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Microsoft Graph environment</Value>
+    </Setting>
+    <Setting Name="postman_api_key" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Postman API Key</Value>
+    </Setting>
+    <Setting Name="postman_collection_id" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Postman Collection ID</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
