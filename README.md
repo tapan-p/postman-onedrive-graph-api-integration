@@ -4,7 +4,7 @@
 While working on recent projects with limited drive space, I realized that it would be good to have a drive back up which contains the code files. Also, while working on couple of javascript projects, it would make more sense to sync the projects folders with some exclusion. Current OneDrive app doesn't support exclusion of sub-folders but Graph API supports the upload of a single file or files. With Postman Collection, it is possible to only sync the files/folders you need. You can create/delete folders, upload files using this collection.
 
 ## How it works?
----
+
 ### Pre-Requisites
 
 I have added code change to this application such that once it receives token form Azure token endpoint, it updates the collection variable with the same using postman api (which requires API Key). 
@@ -20,7 +20,6 @@ You need to update the Setting keys for the project active-directory-wpf-msgraph
 
 
 ### Azure App Setup
----
 
 1. Create an Azure application with supported account types as Microsoft Personal Accounts. Add appropriate Redirect URIs for desktop application.
    
