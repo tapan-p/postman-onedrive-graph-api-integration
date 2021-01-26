@@ -32,9 +32,8 @@ You need to update the Setting keys for the project active-directory-wpf-msgraph
 
 ### Demo
 ---
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=iJQTTGkK3Kg
-" target="_blank"><img src="#" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=tO0Gz8TJdik
+" target="_blank"><img src="https://img.youtube.com/vi/tO0Gz8TJdik/0.jpg" 
 alt="Demo" width="240" height="180" border="10" /></a>
 
 ### Author
